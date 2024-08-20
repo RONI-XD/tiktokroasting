@@ -10,7 +10,7 @@ export default function Home() {
           Tiktok Roasting
         </h1>
         <p className="text-lg text-center mb-6">
-          Jangan cobain kalo kamu gak kuat!
+          Jangan cobain kalo kamu gak kuat!!!
         </p>
         <RoastForm />
       </header>
@@ -19,7 +19,7 @@ export default function Home() {
           Developed by{" "}
           <a
             href="https://www.tiktok.com/Roni-XD"
-            className="text-blue-500"
+            className="text-blue-600"
             target="_blank"
             rel="noopener noreferrer"
           >
