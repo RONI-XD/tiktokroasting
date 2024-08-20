@@ -18,12 +18,12 @@ export default function Home() {
         <p>
           Developed by{" "}
           <a
-            href="https://www.tiktok.com/herherykwan"
+            href="https://www.tiktok.com/Roni-XD"
             className="text-blue-500"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @herherykwan
+            @Roni-XD
           </a>
         </p>
       </footer>
